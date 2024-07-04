@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns="http://jmix.io/schema/rest/services">
+    <service name="jmixpmflowbase_TaskService">
+        <method name="findLeastBusyUser"/>
+    </service>
+</services>
